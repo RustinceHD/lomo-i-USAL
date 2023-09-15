@@ -28,7 +28,7 @@ To run the simulation with a specified delay and the number of trains:
 
     ./lomo retardo nTrains
 
-    Interact with the simulation based on the instructions provided during execution. Use CTRL+C to terminate the simulation.
+Interact with the simulation based on the instructions provided during execution. Use CTRL+C to terminate the simulation.
 
 Requirements
 
