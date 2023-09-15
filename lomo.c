@@ -1,5 +1,5 @@
-//  Edgar Cop� Rubio, 76743891K, edgarcoperubio@usal.es https://github.com/edcoru
-//  Juan Calles Rivas, 70964742J, juan.calles@usal.es	https://github.com/RustinceHD/
+//  Edgar Cop� Rubio,  edgarcoperubio@usal.es https://github.com/edcoru
+//  Juan Calles Rivas,  juan.calles@usal.es	https://github.com/RustinceHD/
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>
